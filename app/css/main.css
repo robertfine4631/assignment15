@@ -1,0 +1,26 @@
+.container {
+  font-family: verdana;
+  font-size: 1.5em;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%; }
+  .container .task {
+    width: 500px;
+    height: 350px;
+    border: 1px solid #d6d6d6;
+    border-radius: 5px;
+    background-color: #6fc0ce;
+    display: inline;
+    float: left; }
+  .container .addTask {
+    width: 250px;
+    height: 350px;
+    border: 1px solid #d6d6d6;
+    border-radius: 5px;
+    background-color: #6fc0ce;
+    display: inline;
+    float: left; }
+    .container .addTask #addTask {
+      width: 200px;
+      height: 35px;
+      margin-bottom: 2.5%; }
